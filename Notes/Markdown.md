@@ -66,7 +66,7 @@ The content in this page is from [GitHub Page - Get Started](https://docs.github
 >Not work in Obsidian.
 
 # Images
-![Plane][/pics/plane.jpg]
+![Plane][/pics/Flight.jpg]
 
 |Context|Relative Link|
 |---|---|
