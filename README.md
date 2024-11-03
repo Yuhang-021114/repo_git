@@ -9,3 +9,5 @@ This progress was taked after put SAME file to stage.
 Creating a new branch is quick & simple.
 Creating a new branch is quick and simple.
 
+[Markdown learning](Notes/Markdown.md)
+
