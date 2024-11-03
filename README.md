@@ -11,3 +11,5 @@ Creating a new branch is quick and simple.
 
 [Markdown learning](Notes/Markdown.md)
 
+![Mindmap for git](pics/git.png)
+
